@@ -27,7 +27,7 @@ The project started as a menu-driven console program (`main.py`) and grew into a
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YOUR-USERNAME/file-desk-crud-manager.git
+   git clone https://github.com/SudhashuXAI/file-desk-crud-manager.git
    cd file-desk-crud-manager
    ```
 
